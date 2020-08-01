@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "calendar",
+        "displayName": "Calendar",
+        "guid": "calendarF85018C159D74A3C9EF13F9AF605335D",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "A calendar on which you can mark date-bound data",
+        "supportUrl": "https://community.powerbi.com",
+        "gitHubUrl": "https://github.com/Razzi654/Calerdar-Power-BI"
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "Egor",
+        "email": "speces007757@gmail.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": [],
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
